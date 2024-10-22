@@ -4,12 +4,12 @@ public class V1Conditionals{
     public static void main(String[] agrs){
         Scanner sc = new Scanner(System.in);
     //age check
-        // int age = sc.nextInt();
-        // if(age>=18){
-        //     System.out.println("allowed");
-        // }else{
-        //     System.out.println("not allowed");
-        // }
+        int age = sc.nextInt();
+        if(age>=18){
+            System.out.println("allowed");
+        }else{
+            System.out.println("not allowed");
+        }
 
     // num odd even
         // int num = sc.nextInt();
