@@ -1,2 +1,2 @@
 # Java-FromScratch
-# My Jaava Journey
+# My Java Journey
